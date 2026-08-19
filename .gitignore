@@ -24,7 +24,7 @@ dist-ssr/
 *.sln
 .continue
 *.sw?
-
+.trash/
 # Environment variables
 .env
 .env.local
