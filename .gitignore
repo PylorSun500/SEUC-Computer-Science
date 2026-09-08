@@ -38,3 +38,6 @@ dist-ssr/
 coverage
 .nyc_output
 *.code-workspace
+
+# Obsidian
+.obsidian/workspace.json
